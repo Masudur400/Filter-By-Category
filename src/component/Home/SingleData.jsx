@@ -13,13 +13,13 @@ const SingleData = ({ data }) => {
                 <img src={image} alt="image" className="w-52 border border-black h-32" />
             </div>
             <div className="px-2 space-y-1">
-                <p className="font-bold">{name}</p>
+                <p className="font-medium">{name}</p>
                 <p className="font-medium text-orange-400 first-letter:uppercase">{category}</p>
                 <div className="">
-                    <p>
+                    <p className="text-sm">
                         {show ? description : `${shortDescription}...`}
                     </p>
-                    <button onClick={() => setShow(!show)} className="font-bold">
+                    <button onClick={() => setShow(!show)} className="font-bold text-sm">
                         {show ? 'See Less' : 'See More'}
                     </button>
                 </div>
