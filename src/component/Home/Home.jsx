@@ -35,7 +35,7 @@ const Home = () => {
 
             <div className="divider"></div>
 
-            {active ? <h2 className="text-2xl font-bold my-5 mx-2">Show <span className='first-letter:uppercase'>{active}</span> Collection</h2> :
+            {active ? <h2 className="text-2xl font-bold my-5 mx-2">Show <span className='capitalize'>{active}</span> Collection</h2> :
                 <h2 className="text-2xl font-bold my-5 flex gap-1 items-center mx-2"> Click The Button <FaArrowUp /></h2>}
 
 
