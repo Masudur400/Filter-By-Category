@@ -26,7 +26,7 @@ const Home = () => {
     return (
         <div>
             <h1 className='text-2xl font-bold my-7'>Filter By Category</h1>
-            
+
             <div className='flex gap-3 px-2 flex-wrap'>
                 {
                     allCategory?.map((category, idx) => <button key={idx} onClick={() => handleClick(category)} className={`${active === category ? 'px-3 py-1 rounded-md border hover:shadow-md bg-gray-100 first-letter:uppercase  font-medium' : 'px-3 py-1 rounded-md border hover:shadow-md first-letter:uppercase'}`}>{category}</button>)
@@ -35,8 +35,8 @@ const Home = () => {
 
             <div className="divider"></div>
 
-            {active ? <h2 className="text-2xl font-bold my-5">Show <span className='first-letter:uppercase'>{active}</span> Collection</h2>:
-            <h2 className="text-2xl font-bold my-5 flex gap-1 items-center"> Click The Button <FaArrowUp /></h2>}
+            {active ? <h2 className="text-2xl font-bold my-5 mx-2">Show <span className='first-letter:uppercase'>{active}</span> Collection</h2> :
+                <h2 className="text-2xl font-bold my-5 flex gap-1 items-center mx-2"> Click The Button <FaArrowUp /></h2>}
 
 
             <div className='grid grid-cols-2 gap-3 md:grid-cols-4 lg:grid-cols-5'>
