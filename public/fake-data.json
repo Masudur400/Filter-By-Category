@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S21",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "The Samsung Galaxy S21 is equipped with a powerful Exynos processor, a triple-lens camera, and a stunning AMOLED display. Its sleek design and fast charging make it a top choice for users."
+    },
+    {
+        "id": 2,
+        "name": "Apple MacBook Pro",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The MacBook Pro delivers high performance with Apple's M1 chip, offering incredible speed and efficiency. Its Retina display and long battery life make it ideal for professionals and creative individuals."
+    },
+    {
+        "id": 3,
+        "name": "Sony WH-1000XM4",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "Sony WH-1000XM4 headphones feature top-tier noise cancellation, providing an immersive audio experience. Its long-lasting battery and wireless connectivity make these headphones a great choice for travel or work."
+    },
+    {
+        "id": 4,
+        "name": "Apple Watch Series 7",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "The Apple Watch Series 7 is the ultimate smartwatch for health and fitness tracking, featuring an always-on display and advanced features like ECG monitoring, fall detection, and real-time workout tracking."
+    },
+    {
+        "id": 5,
+        "name": "Philips Hue Smart Light",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "Philips Hue Smart Light provides customizable lighting with millions of colors to choose from. Control it using voice commands or the app, making it a versatile option for smart homes and mood lighting."
+    },
+    {
+        "id": 6,
+        "name": "Anker PowerPort Charger",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "Anker's PowerPort Charger offers rapid charging capabilities in a compact design. It supports multiple devices and provides fast, safe charging, making it a reliable choice for both home and travel use."
+    },
+    {
+        "id": 7,
+        "name": "JBL Flip 5 Sound Box",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "The JBL Flip 5 is a portable Bluetooth speaker with powerful sound and a waterproof design. It delivers impressive audio quality, making it perfect for outdoor adventures, parties, and everyday use."
+    },
+    {
+        "id": 8,
+        "name": "Spigen Phone Back Cover",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "Spigen's phone back cover offers premium protection for your smartphone. Its shock-absorbent design ensures that your phone stays safe from drops and scratches while maintaining a slim and stylish profile."
+    },
+    {
+        "id": 9,
+        "name": "Casio FX-991EX Calculator",
+        "image": "https://ik.imagekit.io/masudur/calcularor.webp",
+        "category": "calculator",
+        "description": "The Casio FX-991EX is a scientific calculator designed for complex mathematical calculations. With a high-resolution display and solar power support, it is a valuable tool for students and professionals."
+    },
+    {
+        "id": 10,
+        "name": "Canon EOS R Camera",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "The Canon EOS R is a full-frame mirrorless camera that delivers high-quality images and 4K video recording. Its advanced autofocus and versatile lens options make it ideal for photography enthusiasts."
+    },
+    {
+        "id": 11,
+        "name": "OnePlus 9",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "The OnePlus 9 features a stunning AMOLED display, powerful Snapdragon 888 processor, and a camera system co-developed with Hasselblad. It offers fast performance and fluid software experience for demanding users."
+    },
+    {
+        "id": 12,
+        "name": "Dell XPS 13",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The Dell XPS 13 is a sleek and compact laptop with an InfinityEdge display and impressive performance. It is a perfect choice for productivity, featuring long battery life and a lightweight design."
+    },
+    {
+        "id": 13,
+        "name": "Beats Studio 3",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "Beats Studio 3 offers excellent noise-cancelling capabilities and high-quality sound. With its wireless design, long battery life, and signature bass, it is a great option for music lovers and professionals."
+    },
+    {
+        "id": 14,
+        "name": "Fossil Gen 5 Smartwatch",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "The Fossil Gen 5 smartwatch is powered by Wear OS and features fitness tracking, heart rate monitoring, and voice commands. It combines classic watch design with smart features for a seamless experience."
+    },
+    {
+        "id": 15,
+        "name": "TP-Link Smart LED Light",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "TP-Link's smart LED light offers voice control and scheduling through an app, allowing you to customize lighting in your home. It is energy-efficient and easy to install, making it a convenient lighting option."
+    },
+    {
+        "id": 16,
+        "name": "Samsung Fast Charger",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "Samsung's fast charger provides quick and safe charging for all your devices. It supports USB-C technology and is compatible with a wide range of smartphones, ensuring efficient power delivery wherever you go."
+    },
+    {
+        "id": 17,
+        "name": "Bose SoundLink Revolve",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "The Bose SoundLink Revolve offers 360-degree sound for an immersive audio experience. With water resistance and Bluetooth connectivity, it is a portable speaker perfect for both indoor and outdoor settings."
+    },
+    {
+        "id": 18,
+        "name": "OtterBox Defender Phone Case",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "OtterBox Defender phone case offers heavy-duty protection for smartphones, with a multi-layer design to protect against drops, shocks, and dust. It is ideal for those who need durable, rugged protection."
+    },
+    {
+        "id": 19,
+        "name": "Texas Instruments TI-84 Plus",
+        "image": "https://ik.imagekit.io/masudur/calcularor.webp",
+        "category": "calculator",
+        "description": "The Texas Instruments TI-84 Plus is a powerful graphing calculator, ideal for students and professionals alike. Its large screen, advanced functions, and long battery life make it a reliable tool for complex calculations."
+    },
+    {
+        "id": 20,
+        "name": "Nikon Z6 Mirrorless Camera",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "The Nikon Z6 is a high-performance mirrorless camera with a full-frame sensor. It offers exceptional low-light performance and sharp image quality, making it a great option for professional photographers."
+    },
+    {
+        "id": 21,
+        "name": "Google Pixel 6",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "The Google Pixel 6 is powered by Google’s Tensor chip, providing exceptional AI capabilities and a superior camera system. Its vibrant OLED display and clean software experience make it a top Android device."
+    },
+    {
+        "id": 22,
+        "name": "HP Spectre x360",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The HP Spectre x360 is a 2-in-1 laptop with a sleek design and 4K display. Its powerful processor, long battery life, and convertible form make it perfect for professionals and creators alike."
+    },
+    {
+        "id": 23,
+        "name": "Sennheiser HD 560S",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "The Sennheiser HD 560S headphones are designed for audiophiles, offering a neutral sound signature and open-back design. They provide clear and detailed sound, making them ideal for critical listening and studio work."
+    },
+    {
+        "id": 24,
+        "name": "Garmin Venu 2 Smartwatch",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "The Garmin Venu 2 smartwatch combines fitness tracking, GPS navigation, and health monitoring. With an AMOLED display and advanced features like stress tracking, it is perfect for active users and health enthusiasts."
+    },
+    {
+        "id": 25,
+        "name": "LIFX Color LED Light",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "The LIFX Color LED Light offers millions of colors and is controllable via smartphone. With no hub required and easy installation, it is perfect for creating personalized lighting in your home."
+    },
+    {
+        "id": 26,
+        "name": "Belkin USB-C Charger",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "Belkin's USB-C charger offers fast charging for mobile devices. It is compact, efficient, and supports multiple devices, making it a great choice for those who need to charge on the go."
+    },
+    {
+        "id": 27,
+        "name": "Ultimate Ears Boom 3",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "Ultimate Ears Boom 3 delivers 360-degree sound with deep bass. Its waterproof and durable design makes it a great portable Bluetooth speaker for outdoor activities and parties, providing powerful sound wherever you go."
+    },
+    {
+        "id": 28,
+        "name": "UAG Phone Cover",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "The UAG phone cover offers military-grade protection in a slim profile. Its shock-absorbing design ensures that your smartphone is protected from drops and impacts, while maintaining a lightweight and stylish look."
+    },
+    {
+        "id": 29,
+        "name": "Casio MS-80B Desktop Calculator",
+        "image": "https://ik.imagekit.io/masudur/calcularor.webp",
+        "category": "calculator",
+        "description": "The Casio MS-80B is a desktop calculator with a large, easy-to-read display. It offers basic arithmetic functions and memory recall, making it a great tool for office use and daily calculations."
+    },
+    {
+        "id": 30,
+        "name": "Sony Alpha a7 III",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "The Sony Alpha a7 III is a full-frame mirrorless camera offering incredible image quality and 4K video recording. Its fast autofocus and compact design make it ideal for professional and enthusiast photographers."
+    },
+    {
+        "id": 31,
+        "name": "iPhone 13",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "The iPhone 13 features Apple's latest A15 Bionic chip, improved battery life, and an advanced dual-camera system. With its sleek design and powerful performance, it is one of the top smartphones available."
+    },
+    {
+        "id": 32,
+        "name": "Microsoft Surface Laptop 4",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The Microsoft Surface Laptop 4 offers impressive performance with its Intel i7 processor and vibrant touchscreen. It's lightweight and portable, making it perfect for students and professionals on the move."
+    },
+    {
+        "id": 33,
+        "name": "Sony WH-CH710N",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "Sony WH-CH710N headphones provide excellent noise cancellation and long battery life at an affordable price. Its wireless design and lightweight build offer comfort and ease for everyday listening experiences."
+    },
+    {
+        "id": 34,
+        "name": "Garmin Forerunner 945",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "The Garmin Forerunner 945 is designed for athletes, offering GPS tracking, heart rate monitoring, and advanced fitness metrics. It's waterproof and provides detailed insights for serious runners and fitness enthusiasts."
+    },
+    {
+        "id": 35,
+        "name": "Xiaomi Mi Smart LED Light",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "Xiaomi Mi Smart LED Light features customizable brightness and color settings through an app. It's a versatile lighting solution, supporting voice commands, smart home integration, and efficient energy usage."
+    },
+    {
+        "id": 36,
+        "name": "Anker PowerWave Wireless Charger",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "The Anker PowerWave Wireless Charger provides fast and reliable charging for compatible devices. Its sleek design and anti-slip surface make it a convenient option for desk setups and nightstands."
+    },
+    {
+        "id": 37,
+        "name": "Sony SRS-XB23 Portable Speaker",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "Sony SRS-XB23 is a compact and durable Bluetooth speaker with Extra Bass technology. It's waterproof and dustproof, making it the perfect companion for outdoor adventures and beach trips."
+    },
+    {
+        "id": 38,
+        "name": "Ringke Fusion Phone Case",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "The Ringke Fusion phone case offers crystal-clear protection with a slim design. It's made from durable TPU material, ensuring your phone is protected from drops, scratches, and everyday wear."
+    },
+    {
+        "id": 39,
+        "name": "Sharp EL-W535T Calculator",
+        "image": "https://ik.imagekit.io/masudur/calcularor.webp",
+        "category": "calculator",
+        "description": "The Sharp EL-W535T is a scientific calculator with WriteView display technology. It offers advanced functions, including logarithms, equations, and matrices, making it ideal for students and professionals in STEM fields."
+    },
+    {
+        "id": 40,
+        "name": "Olympus OM-D E-M10 Mark IV",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "The Olympus OM-D E-M10 Mark IV is a compact mirrorless camera with a powerful image processor and 5-axis stabilization. It’s perfect for photographers seeking portability and excellent image quality."
+    },
+    {
+        "id": 41,
+        "name": "Realme GT 5G",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "The Realme GT 5G delivers high-end performance with its Snapdragon 888 chipset and 120Hz display. Its fast charging and sleek design make it a great option for gamers and power users."
+    },
+    {
+        "id": 42,
+        "name": "Acer Swift 3",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The Acer Swift 3 is a lightweight and affordable laptop with solid performance. Powered by Intel processors, it's perfect for students and professionals seeking a reliable and portable computing solution."
+    },
+    {
+        "id": 43,
+        "name": "Bose QuietComfort 35 II",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "Bose QuietComfort 35 II headphones offer world-class noise cancellation, delivering a quiet listening experience in any environment. Its wireless connectivity and long battery life make it perfect for travel."
+    },
+    {
+        "id": 44,
+        "name": "Amazfit Bip U Pro",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "The Amazfit Bip U Pro is a budget-friendly smartwatch with built-in GPS, heart rate monitoring, and SpO2 measurement. It offers great fitness tracking features and long battery life for everyday use."
+    },
+    {
+        "id": 45,
+        "name": "Nanoleaf Shapes Light Panels",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "Nanoleaf Shapes Light Panels are customizable, smart LED lights that form unique designs. Controlled by an app or voice assistant, they create stunning visual effects for your home or workspace."
+    },
+    {
+        "id": 46,
+        "name": "Belkin BoostCharge Pro",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "Belkin BoostCharge Pro provides fast charging for multiple devices simultaneously. Its compact design and wireless capabilities make it a perfect accessory for managing all your devices in one convenient spot."
+    },
+    {
+        "id": 47,
+        "name": "Marshall Emberton Portable Speaker",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "Marshall Emberton is a stylish, portable Bluetooth speaker that delivers rich sound in a compact design. Its water-resistant build and impressive battery life make it perfect for music lovers on the go."
+    },
+    {
+        "id": 48,
+        "name": "Mous Limitless 3.0 Case",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "The Mous Limitless 3.0 case offers superior drop protection with a stylish finish. Made from real materials like wood or leather, it provides a premium feel while keeping your phone safe."
+    },
+    {
+        "id": 49,
+        "name": "Canon EOS Rebel T7",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "The Canon EOS Rebel T7 is an entry-level DSLR with a 24.1 MP sensor and built-in Wi-Fi. It's perfect for beginners looking to learn photography with great image quality and ease of use."
+    },
+    {
+        "id": 50,
+        "name": "Samsung Galaxy A52",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "The Samsung Galaxy A52 offers a balanced mix of performance, camera quality, and affordability. With a 90Hz display and a quad-camera setup, it’s an excellent mid-range option for everyday users."
+    },
+    {
+        "id": 51,
+        "name": "Lenovo Yoga 9i",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The Lenovo Yoga 9i is a premium 2-in-1 laptop with a vibrant display and solid performance. Its 360-degree hinge allows for versatile usage, making it ideal for both work and entertainment."
+    },
+    {
+        "id": 52,
+        "name": "HyperX Cloud II Wireless",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "HyperX Cloud II Wireless offers excellent sound quality and comfort for long gaming sessions. With 30 hours of battery life and virtual 7.1 surround sound, it's a great choice for gamers."
+    },
+    {
+        "id": 53,
+        "name": "Fitbit Charge 5",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "The Fitbit Charge 5 offers advanced health tracking with ECG, stress management, and built-in GPS. It’s a great choice for those looking to monitor their fitness levels and improve their overall health."
+    },
+    {
+        "id": 54,
+        "name": "Philips Hue Go Portable Light",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "Philips Hue Go is a portable smart light with customizable colors and effects. It’s perfect for mood lighting, offering the flexibility to take your lighting experience wherever you go."
+    },
+    {
+        "id": 55,
+        "name": "RAVPower PD Pioneer Charger",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "RAVPower PD Pioneer Charger is a high-speed, efficient charging solution that supports multiple devices. Its compact design and fast charging capabilities make it an essential accessory for tech enthusiasts."
+    },
+    {
+        "id": 56,
+        "name": "JBL Charge 5 Bluetooth Speaker",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "JBL Charge 5 is a portable Bluetooth speaker with powerful sound and built-in power bank. Its durable, waterproof design makes it a great companion for outdoor events and beach parties."
+    },
+    {
+        "id": 57,
+        "name": "Spigen Tough Armor Case",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "The Spigen Tough Armor case combines rugged protection with a slim design. It features dual-layer construction and reinforced corners, making it an excellent option for those seeking maximum protection."
+    },
+    {
+        "id": 58,
+        "name": "Nikon D5600",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "The Nikon D5600 is a versatile DSLR with a 24.2 MP sensor and a vari-angle touchscreen. Its SnapBridge technology allows for easy sharing of photos via Bluetooth, perfect for hobbyists."
+    },
+    {
+        "id": 59,
+        "name": "OnePlus Nord 2",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "The OnePlus Nord 2 offers flagship-level performance at a mid-range price. With a MediaTek Dimensity 1200 chipset, 90Hz AMOLED display, and fast charging, it’s a great value for tech enthusiasts."
+    },
+    {
+        "id": 60,
+        "name": "HP Spectre x360",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The HP Spectre x360 is a premium 2-in-1 laptop with a sleek design and powerful performance. Its 4K OLED display and long battery life make it ideal for creative professionals."
+    },
+    {
+        "id": 61,
+        "name": "Beats Solo Pro",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "Beats Solo Pro features active noise cancellation, premium sound, and a stylish design. With up to 22 hours of battery life, it offers a perfect blend of sound quality and portability."
+    },
+    {
+        "id": 62,
+        "name": "Garmin Instinct Solar",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "Garmin Instinct Solar is a rugged GPS smartwatch built for the outdoors. With solar charging, heart rate monitoring, and advanced fitness tracking, it’s a perfect companion for adventure enthusiasts."
+    },
+    {
+        "id": 63,
+        "name": "Yeelight Smart LED Bulb",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "The Yeelight Smart LED Bulb offers smart home integration with customizable colors and brightness. It’s compatible with Alexa and Google Assistant, allowing easy voice control and energy-efficient lighting."
+    },
+    {
+        "id": 64,
+        "name": "Samsung Wireless Charger Duo",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "Samsung Wireless Charger Duo allows you to charge two devices at once. With fast wireless charging and a sleek design, it’s an ideal solution for keeping your phone and watch powered."
+    },
+    {
+        "id": 65,
+        "name": "Bose SoundLink Revolve",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "Bose SoundLink Revolve is a portable Bluetooth speaker offering 360-degree sound. Its compact design and water-resistant build make it perfect for delivering powerful audio at home or on the go."
+    },
+    {
+        "id": 66,
+        "name": "OtterBox Defender Case",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "The OtterBox Defender Case offers multi-layer protection with a built-in screen protector. Its rugged design protects your phone from drops, dust, and scratches, ensuring maximum durability in tough conditions."
+    },
+    {
+        "id": 67,
+        "name": "Canon EOS M50 Mark II",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "Canon EOS M50 Mark II is a mirrorless camera with 4K video recording and fast autofocus. It’s perfect for vloggers and content creators seeking high-quality images and videos on the go."
+    },
+    {
+        "id": 68,
+        "name": "Google Pixel 6",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "Google Pixel 6 features the powerful Google Tensor chip, a 90Hz display, and excellent camera performance. Its stock Android experience and AI-driven features make it a top choice for Android users."
+    },
+    {
+        "id": 69,
+        "name": "Dell XPS 13",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The Dell XPS 13 is a premium ultrabook with a nearly bezel-free 13.4-inch display and impressive performance. It’s an ideal laptop for professionals and creatives seeking a sleek and powerful device."
+    },
+    {
+        "id": 70,
+        "name": "Sennheiser Momentum 3 Wireless",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "Sennheiser Momentum 3 Wireless headphones offer excellent sound quality, active noise cancellation, and premium design. They provide a comfortable fit, making them perfect for long listening sessions and daily commutes."
+    },
+    {
+        "id": 71,
+        "name": "Fossil Gen 5 Smartwatch",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "The Fossil Gen 5 Smartwatch combines style and functionality with its Google Wear OS. It offers heart rate monitoring, fitness tracking, and notifications, making it an excellent choice for tech-savvy individuals."
+    },
+    {
+        "id": 72,
+        "name": "Philips Hue Play Light Bar",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "The Philips Hue Play Light Bar enhances your home entertainment setup with dynamic lighting effects. Its compact design and smart home integration provide immersive lighting experiences for gaming, movies, and music."
+    },
+    {
+        "id": 73,
+        "name": "Anker PowerCore 10000",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "Anker PowerCore 10000 is a compact and lightweight power bank with fast charging capabilities. Its high capacity ensures that you can charge your devices multiple times while on the go."
+    },
+    {
+        "id": 74,
+        "name": "JBL Flip 5",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "JBL Flip 5 is a portable waterproof Bluetooth speaker with powerful sound. Its durable design and 12-hour battery life make it the perfect companion for outdoor activities and adventures."
+    },
+    {
+        "id": 75,
+        "name": "Spigen Ultra Hybrid Case",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "Spigen Ultra Hybrid Case offers a clear back with shock-absorbing bumpers. It provides reliable protection for your phone without adding bulk, keeping the original design of your device visible."
+    },
+    {
+        "id": 76,
+        "name": "Fujifilm X-T30 II",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "Fujifilm X-T30 II is a compact mirrorless camera with advanced image processing and retro design. Its fast autofocus and 4K video recording make it an excellent option for content creators."
+    },
+    {
+        "id": 77,
+        "name": "Xiaomi Mi 11",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "Xiaomi Mi 11 offers flagship-level performance with its Snapdragon 888 chipset and AMOLED display. With 108MP camera and fast charging, it’s a premium smartphone for users seeking top-notch features."
+    },
+    {
+        "id": 78,
+        "name": "Asus ZenBook 14",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "Asus ZenBook 14 is an ultrathin, portable laptop with military-grade durability and powerful performance. Its NanoEdge display and long battery life make it an excellent choice for professionals on the go."
+    },
+    {
+        "id": 79,
+        "name": "Sony WF-1000XM4",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "Sony WF-1000XM4 are premium wireless earbuds with industry-leading noise cancellation and exceptional sound quality. With a comfortable fit and long battery life, they are ideal for music lovers and travelers."
+    },
+    {
+        "id": 80,
+        "name": "TicWatch Pro 3 GPS",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "TicWatch Pro 3 GPS is a high-performance smartwatch with dual-layer display technology, offering extended battery life. It includes heart rate monitoring, GPS, and Google Wear OS, making it ideal for fitness tracking."
+    },
+    {
+        "id": 81,
+        "name": "LIFX Beam Smart Light",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "LIFX Beam Smart Light creates stunning visual effects with customizable colors and modular designs. It's compatible with smart home systems, allowing easy control of lighting to suit your mood and space."
+    },
+    {
+        "id": 82,
+        "name": "Anker PowerWave Pad",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "Anker PowerWave Pad is a fast wireless charger compatible with Qi-enabled devices. Its slim design and reliable performance make it perfect for charging smartphones without the hassle of cables."
+    },
+    {
+        "id": 83,
+        "name": "UE Boom 3",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "UE Boom 3 is a waterproof Bluetooth speaker offering 360-degree sound and deep bass. Its rugged design and 15-hour battery life make it a great companion for outdoor adventures and parties."
+    },
+    {
+        "id": 84,
+        "name": "Ringke Fusion-X Case",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "The Ringke Fusion-X Case combines transparent style with military-grade protection. It features reinforced bumpers and a sleek design, offering robust protection while showcasing the natural look of your smartphone."
+    },
+    {
+        "id": 85,
+        "name": "Sony Alpha A6400",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "The Sony Alpha A6400 is a mirrorless camera with real-time eye autofocus and 4K video recording. Its compact build and advanced features make it ideal for both photography enthusiasts and vloggers."
+    },
+    {
+        "id": 86,
+        "name": "Oppo Reno 6 Pro",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "Oppo Reno 6 Pro features a stunning design, fast MediaTek Dimensity processor, and a versatile quad-camera setup. It’s perfect for users looking for a balance of aesthetics, performance, and camera capabilities."
+    },
+    {
+        "id": 87,
+        "name": "Microsoft Surface Laptop 4",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The Microsoft Surface Laptop 4 offers sleek design, strong performance, and a vibrant PixelSense display. Its long battery life and lightweight build make it a top choice for professionals and students."
+    },
+    {
+        "id": 88,
+        "name": "Bose QuietComfort 35 II",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "Bose QuietComfort 35 II headphones deliver world-class noise cancellation and crystal-clear sound. With voice assistant integration and comfortable design, they’re ideal for both travel and everyday listening."
+    },
+    {
+        "id": 89,
+        "name": "Suunto 7 Smartwatch",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "Suunto 7 is a premium GPS smartwatch with Wear OS, designed for outdoor enthusiasts. It includes advanced fitness tracking, maps, and long battery life, making it perfect for exploring the outdoors."
+    },
+    {
+        "id": 90,
+        "name": "Nanoleaf Shapes",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "Nanoleaf Shapes are smart, customizable light panels that allow you to create artistic lighting designs. With vibrant colors and seamless integration with smart home systems, they add life to any space."
+    },
+    {
+        "id": 91,
+        "name": "Belkin Boost Up Wireless Charging Stand",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "The Belkin Boost Up Wireless Charging Stand provides fast wireless charging for smartphones and smartwatches. Its angled design makes it easy to view notifications while charging, making it a convenient choice."
+    },
+    {
+        "id": 92,
+        "name": "Marshall Kilburn II",
+        "image": "https://ik.imagekit.io/masudur/soundbox.jpg",
+        "category": "sound-box",
+        "description": "Marshall Kilburn II is a portable Bluetooth speaker with retro design and powerful sound. Its 20-hour battery life and robust build make it perfect for those seeking a classic style with modern tech."
+    },
+    {
+        "id": 93,
+        "name": "UAG Monarch Case",
+        "image": "https://ik.imagekit.io/masudur/backcover.webp",
+        "category": "phone-back-cover",
+        "description": "The UAG Monarch Case is built for extreme protection with five layers of material. Its rugged design provides military-grade durability while maintaining a stylish, lightweight feel for your smartphone."
+    },
+    {
+        "id": 94,
+        "name": "Panasonic Lumix GH5",
+        "image": "https://ik.imagekit.io/masudur/camera.webp",
+        "category": "camera",
+        "description": "The Panasonic Lumix GH5 is a professional-grade mirrorless camera offering 4K video at 60fps and advanced image stabilization. It’s perfect for filmmakers and photographers seeking high-end video performance."
+    },
+    {
+        "id": 95,
+        "name": "Samsung Galaxy Z Flip 3",
+        "image": "https://ik.imagekit.io/masudur/mobile-222.jpg",
+        "category": "mobile",
+        "description": "Samsung Galaxy Z Flip 3 offers a unique foldable design with a vibrant AMOLED display and powerful performance. Its compact form factor and innovative features make it a standout in the smartphone market."
+    },
+    {
+        "id": 96,
+        "name": "Lenovo Yoga C940",
+        "image": "https://ik.imagekit.io/masudur/laptop.jpg",
+        "category": "laptop",
+        "description": "The Lenovo Yoga C940 is a 2-in-1 laptop with a 4K display and strong performance. Its versatile design and long battery life make it ideal for users seeking both productivity and entertainment."
+    },
+    {
+        "id": 97,
+        "name": "AKG N700NC M2",
+        "image": "https://ik.imagekit.io/masudur/headphone.jpg",
+        "category": "headphone",
+        "description": "The AKG N700NC M2 offers premium sound quality, active noise cancellation, and a comfortable fit. With its sleek design and long battery life, it’s perfect for music lovers and frequent travelers."
+    },
+    {
+        "id": 98,
+        "name": "Garmin Fenix 6",
+        "image": "https://ik.imagekit.io/masudur/watch-2.webp",
+        "category": "watch",
+        "description": "Garmin Fenix 6 is a rugged GPS smartwatch designed for adventure. It offers advanced fitness tracking, heart rate monitoring, and topographic maps, making it the perfect companion for outdoor enthusiasts."
+    },
+    {
+        "id": 99,
+        "name": "Govee Immersion TV Backlights",
+        "image": "https://ik.imagekit.io/masudur/light.webp",
+        "category": "light",
+        "description": "Govee Immersion TV Backlights enhance your viewing experience with colorful ambient lighting. These smart LED lights sync with the on-screen action, creating a dynamic and immersive atmosphere for movies and games."
+    },
+    {
+        "id": 100,
+        "name": "Mophie 3-in-1 Wireless Charging Pad",
+        "image": "https://ik.imagekit.io/masudur/charger.jpg",
+        "category": "charger",
+        "description": "Mophie 3-in-1 Wireless Charging Pad charges your phone, smartwatch, and earbuds simultaneously. Its sleek design and fast wireless charging capabilities make it an efficient solution for powering multiple devices."
+    }
+]
