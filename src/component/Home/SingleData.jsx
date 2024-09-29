@@ -14,7 +14,7 @@ const SingleData = ({ data }) => {
             </div>
             <div className="px-2 space-y-1">
             <p className="font-bold">{name}</p>
-            <p className="font-medium text-orange-400">{category}</p>
+            <p className="font-medium text-orange-400 first-letter:uppercase">{category}</p>
             <div className="">
                 <p>
                     {show ? description : `${shortDescription}...`}
